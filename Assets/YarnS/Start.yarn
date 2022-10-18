@@ -1,0 +1,23 @@
+﻿title: Start
+tags:
+---
+Hannah: Elige una opcion
+->opcion a
+  <<jump A>>
+->opcion b
+  <<jump B>>
+->opcion c
+  <<jump C>>
+===
+title: A
+---
+opcion a seleccionada
+===
+title: B
+---
+opcion b seleccionada
+===
+title: C
+---
+opcion c seleccionada
+===
